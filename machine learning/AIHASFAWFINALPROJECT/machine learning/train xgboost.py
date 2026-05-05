@@ -38,7 +38,7 @@ model = xgb.XGBClassifier(
     colsample_bytree=0.8,
     eval_metric='logloss',
     random_state=42,
-    n_jobs=4   # important
+    n_jobs=4   
 )
 
 # train
