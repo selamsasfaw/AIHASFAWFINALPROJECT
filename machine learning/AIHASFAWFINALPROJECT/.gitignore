@@ -1,0 +1,7 @@
+ml_env/
+__pycache__/
+*.pyc
+*.csv
+machine_learning/
+../../ml_env/
+../../machine_learning/
